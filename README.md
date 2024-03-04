@@ -1,2 +1,2 @@
-# Arch_Shop_Lab_zlo
+Лабораторная (домашняя) работа - Лобанов - 108М
  Architecture HW
